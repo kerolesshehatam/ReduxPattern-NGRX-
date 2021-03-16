@@ -1,5 +1,7 @@
 # ReduxPattern-NGRX
 
+I used an existing angular application and worked to update it to use NGRX
+
 Starter files with no NgRx added.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.

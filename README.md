@@ -1,4 +1,4 @@
-# APM-Demo0
+# ReduxPattern-NGRX
 
 Starter files with no NgRx added.
 
